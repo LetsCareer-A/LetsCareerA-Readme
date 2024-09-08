@@ -356,10 +356,10 @@
 ![image](https://github.com/user-attachments/assets/fc0cf6f7-35fe-4968-a78b-e9cecc8ba9f0)
 
 
-## **🖥️  기술 스택 선정 이유**
+## **🖥️  기술 스택 설명**
 
 
-> Frontend 스택 선정과 이유
+> **Frontend 스택** 
 > 
 
 ### **프레임워크**
@@ -386,7 +386,7 @@
 
 ---
 
-> **Server 스택 선정과 이유**
+> **Server 스택**
 > 
 
 ### 프레임워크
