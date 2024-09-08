@@ -1,4 +1,4 @@
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/43d4785b-5c7d-4061-b169-c23faff3a4f3/image.png)
+![image](https://github.com/user-attachments/assets/61bf201a-6419-414b-8381-e94c790ebef6)
 
 ## 1. 문제 인식
 
