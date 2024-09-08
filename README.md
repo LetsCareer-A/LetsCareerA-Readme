@@ -416,7 +416,7 @@
 - CORS 
 - https ssl 인증서 설정
 - git, cgi 디렉토리 접근 방지
-- rds ssh 터널링
+- rds private 변경 후 ssh 터널링
 
 ### 유지보수
 
