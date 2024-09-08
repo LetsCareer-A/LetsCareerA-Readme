@@ -109,13 +109,15 @@
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/7ae9366c-00b6-4b5b-8a92-f7d472e734de/image.png)
+
+![image (1)](https://github.com/user-attachments/assets/4864b440-06e5-4bf1-a59d-79933cc39766)
 
 ### 1-3. SWOT
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/45f879c2-0564-48b1-9c00-a905627b400f/image.png)
+![image (2)](https://github.com/user-attachments/assets/9524294c-2408-4786-a870-482e3d24eeaf)
+
 
 ### 1-4. 문제 정의
 
@@ -150,11 +152,13 @@
 
 취업 준비생 142명을 대상으로 한 해당 문항을 통해 취업 준비생들이 취업 일정 관리에서 어려움을 겪고 있다는 점을 알 수 있었습니다.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/07e1a345-ab93-4ac2-b333-59fccf591169/image.png)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/ed810863-8902-4022-9022-1646437434d3/image.png)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/da038c34-bd4f-4ca0-b12f-4fe210453652/image.png)
+![image (3)](https://github.com/user-attachments/assets/7fa16401-d3a8-4792-9eb6-6e348a29f519)
+
+![image (4)](https://github.com/user-attachments/assets/56174249-b2bb-4cf0-97a8-1d654ce4ce02)
+![image (5)](https://github.com/user-attachments/assets/ee135fd7-c0e7-46fa-b8f6-6c4507fbec0b)
+
 
 **💡** 취업 준비생들은 일정 관리에 어려움을 겪고 있으며, 이를 효과적으로 관리할 수 있는 서비스가 필요할 것입니다.
 
@@ -163,7 +167,8 @@
 
 취업 준비생 142명을 대상으로 한 해당 문항을 통해 취업 준비생들이 취업 준비 과정을 복기 및 회고할 때 어려움을 겪고 있다는 점을 알 수 있었습니다.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/9b86740d-ca45-4cb4-8ad6-9ac08aee52c7/image.png)
+![image (6)](https://github.com/user-attachments/assets/4452b05f-fb5c-4c89-89c6-ed7b2ef229b7)
+
 
 **💡** 취업 준비생들은 회고 관리에 어려움을 겪고 있으며, 회고를 효과적으로 할 수 있는 가이드 기능이 필요할 것입니다.
 
@@ -172,7 +177,8 @@
 
 취업 준비생 142명을 대상으로 한 해당 문항을 통해 취업 준비생들이 취업 준비 관련 경험 정리를 할 때 어려움을 겪고 있다는 점을 알 수 있었습니다.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/dff02645-1ceb-4465-a85b-ad6f2f056f51/image.png)
+![image (7)](https://github.com/user-attachments/assets/b9a2959e-4ed2-4f41-b583-63a1f1bd061b)
+
 
 유저인터뷰를 통해  서류, 면접 전형 등에서 활용할 경험 정리에서 어려움을 겪고 있다는 문제점을 파악할 수 있었습니다.
 
@@ -227,19 +233,22 @@
 
 **SAM 73.2% 유저리서치 결과 취업 준비시 일정관리를 진행하는 취업준비생 수 = 약 33만 4180명**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/317d6bf8-9faa-4dce-9eb3-f67dd411dae4/image.png)
+![image (8)](https://github.com/user-attachments/assets/1ef3fbaf-9974-4604-b835-a9146fd4a654)
+
 
 ### 2-3. 페르소나
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/20a3654c-d96f-4f78-b21c-075eac14e854/image.png)
+![image (9)](https://github.com/user-attachments/assets/1710d0b5-0645-4de9-b202-5180fda3c8a8)
+
 
 ### 2-4. 사용자 여정지도
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/12ee99ce-67a6-41df-a6ff-d03a03814928/image.png)
+![image (10)](https://github.com/user-attachments/assets/1f496855-1d9f-4ff2-8cb4-2f7f325a752b)
+
 
 ## 3. 서비스
 
@@ -257,37 +266,42 @@
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/d3df3029-5a0f-4ac2-8661-daf1312d9af4/image.png)
+![image (11)](https://github.com/user-attachments/assets/db039c05-8e9c-4155-9545-489d00a3d59b)
+
 
 ### 3-4. 유저 플로우
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/3ad215e9-ed1a-4c2a-a637-b9eef92b5268/image.png)
+![image (12)](https://github.com/user-attachments/assets/7cdebf47-2e89-422d-aaff-91d16aa45f4b)
 
-![flow2.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/1b111e92-3745-4c8d-ac88-a1b02101470a/flow2.png)
+![flow2](https://github.com/user-attachments/assets/36041eed-ca96-4c8e-91a2-e4eed94584dc)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/e1fc071c-c776-4140-8303-4b7c5e4c4486/image.png)
+![image (13)](https://github.com/user-attachments/assets/179bd270-3d16-440f-a77b-29fafe7a34fb)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/6fb5bb6e-9cb5-4c0a-a8cc-8bc08a38af82/image.png)
+![image (14)](https://github.com/user-attachments/assets/1f236fbd-ee43-46c3-9591-dc35b4dbb6a0)
+
 
 ### 3-5. IA (Information Ar**chitecture)**
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/70278531-3183-47a8-9dd2-93e39c6603a1/image.png)
+![image (15)](https://github.com/user-attachments/assets/af266453-ef68-45b4-8fd6-7ca65d42bcb9)
+
 
 ### 3-6. USP (Unique Selling Point)
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/fb266969-a1aa-4aac-b0fa-7fdb5fd45ca8/image.png)
+![image (16)](https://github.com/user-attachments/assets/1df00255-c2e8-441a-a3ce-aecac702ac1c)
+
 
 ### 3-7. 포지셔닝 맵
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/14f71241-12e7-43d3-bf30-d9eb577f4ba9/image.png)
+![image (17)](https://github.com/user-attachments/assets/e08c08d7-3d32-4b15-85cc-44c641f4d093)
+
 
 ## 4. 프로토타입
 
@@ -297,28 +311,30 @@
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/aebfe42d-f980-4f82-9e67-9fff09c45bf1/image.png)
+![image (18)](https://github.com/user-attachments/assets/a1dab1c7-6a55-4e32-863a-eaf0fd6e9832)
+
 
 ### 4-2. Prototype
 
 ---
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/67b60bcf-7a2c-4361-bfd7-a309085b9e16/image.png)
+![image (19)](https://github.com/user-attachments/assets/31988c3a-9fbb-4328-9a9d-90d981cc2859)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/447940f8-1922-4cc7-9be6-82734a12da9d/image.png)
+![image (20)](https://github.com/user-attachments/assets/51efb448-77ea-45c5-b8f9-4778f8273d2d)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/a17ff418-8bc9-41a1-b315-bfa9ce87b16f/image.png)
+![image (21)](https://github.com/user-attachments/assets/1e000d14-b8cd-4bef-b54d-4f6c5908570b)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/fd91c1b0-a697-4d87-a5e7-25ccb74e184e/image.png)
+![image (22)](https://github.com/user-attachments/assets/4d8f4d40-e7a5-4d18-b63c-84ca0e10d8ac)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/c5e6a69b-3559-4515-a1ff-cc09391877fa/image.png)
+![image (23)](https://github.com/user-attachments/assets/5590ac7a-e98a-4e3a-a53f-052361c8e9b4)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/5d094309-d65b-4157-bc9f-89366670bc7e/image.png)
+![image (24)](https://github.com/user-attachments/assets/dfef1c5f-fe43-46ba-bebc-d21205bd944d)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/e9f37fd2-7e1d-4242-a2d7-90b69b4f2739/image.png)
+![image (25)](https://github.com/user-attachments/assets/ecc1cdbb-9292-460a-9887-376915c65b89)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/d24064c3-e9c1-4538-8184-e05382f088ce/image.png)
+![image (26)](https://github.com/user-attachments/assets/483f26d6-d426-41d1-8212-5cd599e71c04)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/d7c1ec04-83b2-4705-807d-b8b569a546ac/image.png)
+![image (27)](https://github.com/user-attachments/assets/f254cecf-08cb-4c34-8128-1f2bbe23cf1f)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5acdf08e-9ca5-4f6b-8ee1-d92a721ae851/40c0514f-371d-42b5-bf9d-feda3bf00380/image.png)
+![image (28)](https://github.com/user-attachments/assets/32a39f50-5559-4450-a159-db031918c799)
+
