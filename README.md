@@ -341,3 +341,67 @@
 
 ![image (28)](https://github.com/user-attachments/assets/32a39f50-5559-4450-a159-db031918c799)
 
+
+### 5. ERD
+
+---
+
+![letscareer-dashboard](https://github.com/user-attachments/assets/42774186-cbac-4104-971c-ded88ff8b1f2)
+
+
+### 6. System Architechture
+
+---
+
+![image](https://github.com/user-attachments/assets/fc0cf6f7-35fe-4968-a78b-e9cecc8ba9f0)
+
+
+## **🖥️  기술 스택 선정 이유**
+
+
+> Frontend 스택 선정과 이유
+> 
+
+### **프레임워크**
+
+- React `18.0.3`
+- TypeScript - 코드의 안정성과 가독성을 높이고,  더 안전한 코드를 작성을 위해 사용합니다.
+
+### **스타일링 도구**
+
+- Tailwind CSS - 미리 정의된 클래스를 사용해 효율적으로 스타일링을 위해 사용합니다.
+
+### **라우팅 도구**
+
+- React Router - SPA에서 페이지 간 네비게이션을 관리하기 위해 사용합니다.
+
+### **데이터 및 상태 관리**
+
+- Axios - HTTP 요청을 쉽게 관리하기 위해 사용합니다.
+
+### **빌드 및 배포**
+
+- Vite - 빠른 HMR(Hot Module Replacement)과 효율적인 번들링을 위해 사용합니다.
+- Vercel - 자동화된 배포 파이프라인과 글로벌 CDN을 제공하기 때문에 빠르고 안정적인 배포를 위해 사용합니다.
+
+
+> **Server 스택 선정과 이유**
+> 
+
+### 프레임워크
+
+- Spring boot `3.2.5`
+- Query Dsl `5.0.0`  - 타입 세이프하고 가독성이 높은 쿼리 작성을 위해 사용합니다.
+
+### 데이터베이스
+
+- mysql `8.x.x`
+- redis - 어필할 커리어를 연결할 당시 좌측 커리어보드의 데이터를 Redis에 캐싱함으로써 데이터베이스 부하를 줄이고 응답 속도를 높이기 위해 사용합니다.
+
+### 클라우드
+
+- EC2 - 인스턴스 생성을 위해 사용합니다.
+- RDS - 데이터베이스 생성을 위해 사용합니다.
+- Elastic cache - api의 성능을 위해 redis 캐싱을 위해 사용합니다.
+- nginx, docker - cicd 배포를 위해 사용합니다.
+
