@@ -404,7 +404,7 @@
 - EC2 - 인스턴스 생성을 위해 사용합니다.
 - RDS - 데이터베이스 생성을 위해 사용합니다.
 - Elastic cache - api의 성능을 위해 redis 캐싱을 위해 사용합니다.
-- nginx, docker - cicd 배포를 위해 사용합니다.
+- nginx, docker, githubactions - cicd 배포를 위해 사용합니다.
 
 ---
 
