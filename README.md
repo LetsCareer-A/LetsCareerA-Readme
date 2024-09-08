@@ -277,30 +277,33 @@
 
 ![flow2](https://github.com/user-attachments/assets/36041eed-ca96-4c8e-91a2-e4eed94584dc)
 
-![image (13)](https://github.com/user-attachments/assets/179bd270-3d16-440f-a77b-29fafe7a34fb)
 
-![image (14)](https://github.com/user-attachments/assets/1f236fbd-ee43-46c3-9591-dc35b4dbb6a0)
+
+
 
 
 ### 3-5. IA (Information Ar**chitecture)**
 
 ---
 
-![image (15)](https://github.com/user-attachments/assets/af266453-ef68-45b4-8fd6-7ca65d42bcb9)
+![image (13)](https://github.com/user-attachments/assets/179bd270-3d16-440f-a77b-29fafe7a34fb)
+
 
 
 ### 3-6. USP (Unique Selling Point)
 
 ---
 
-![image (16)](https://github.com/user-attachments/assets/1df00255-c2e8-441a-a3ce-aecac702ac1c)
+![image (14)](https://github.com/user-attachments/assets/1f236fbd-ee43-46c3-9591-dc35b4dbb6a0)
+
 
 
 ### 3-7. 포지셔닝 맵
 
 ---
 
-![image (17)](https://github.com/user-attachments/assets/e08c08d7-3d32-4b15-85cc-44c641f4d093)
+![image (15)](https://github.com/user-attachments/assets/af266453-ef68-45b4-8fd6-7ca65d42bcb9)
+
 
 
 ## 4. 프로토타입
@@ -311,7 +314,7 @@
 
 ---
 
-![image (18)](https://github.com/user-attachments/assets/a1dab1c7-6a55-4e32-863a-eaf0fd6e9832)
+![image (16)](https://github.com/user-attachments/assets/1df00255-c2e8-441a-a3ce-aecac702ac1c)
 
 
 ### 4-2. Prototype
