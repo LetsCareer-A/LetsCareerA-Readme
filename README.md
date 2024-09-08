@@ -353,8 +353,7 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/fc0cf6f7-35fe-4968-a78b-e9cecc8ba9f0)
-
+![image](https://github.com/user-attachments/assets/52f27d5e-168c-4c80-b408-7a6a9cee6abc)
 
 ## **🖥️  기술 스택 설명**
 
