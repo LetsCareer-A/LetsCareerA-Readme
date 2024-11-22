@@ -116,19 +116,3 @@
 - Elastic cache - api의 성능을 위해 redis 캐싱을 위해 사용합니다.
 - nginx, docker, githubactions - cicd 배포를 위해 사용합니다.
 
----
-
-> **그 외**
-
-### 보안
-
-- ddos 공격 방지
-- CORS 
-- https ssl 인증서 설정
-- git, cgi 디렉토리 접근 방지
-- rds private 변경 후 ssh 터널링
-
-### 유지보수
-
-- ddd 디렉토리
-- mysql 조회 성능 최적화
