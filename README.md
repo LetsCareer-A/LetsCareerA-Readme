@@ -32,17 +32,6 @@
 ## 2. 프로토타입
 
 
-### 2-1. Design System
-
----
-
-![image (16)](https://github.com/user-attachments/assets/1df00255-c2e8-441a-a3ce-aecac702ac1c)
-
-
-### 2-2. Prototype
-
----
-
 ![image (19)](https://github.com/user-attachments/assets/31988c3a-9fbb-4328-9a9d-90d981cc2859)
 
 ![image (20)](https://github.com/user-attachments/assets/51efb448-77ea-45c5-b8f9-4778f8273d2d)
