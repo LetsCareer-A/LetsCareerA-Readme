@@ -1,20 +1,10 @@
 ![image](https://github.com/user-attachments/assets/61bf201a-6419-414b-8381-e94c790ebef6)
 
-## 1. 문제 인식
 
----
+## 1. 서비스
 
-### 1-1. 문제 배경
+### 1-1. 서비스 소개
 
----
-
-## 3. 서비스
-
----
-
-### 3-1. 서비스 소개
-
----
 
 **<렛츠커리어 지원 대시보드>**는 취업을 준비하는 모든 여정의 소중한 경험과 기록을 차곡차곡 담아가며 함께 성장할 수 있도록 돕는 서비스입니다.
 
@@ -23,9 +13,8 @@
 ---
 
 
-### 3-2. 유저 플로우
+### 1-2. 유저 플로우
 
----
 
 ![image (12)](https://github.com/user-attachments/assets/7cdebf47-2e89-422d-aaff-91d16aa45f4b)
 
@@ -33,26 +22,24 @@
 
 ---
 
-### 3-3. IA (Information Ar**chitecture)**
+### 1-3. IA (Information Ar**chitecture)**
 
----
 
 ![image (13)](https://github.com/user-attachments/assets/179bd270-3d16-440f-a77b-29fafe7a34fb)
 
 ---
 
-## 4. 프로토타입
+## 2. 프로토타입
 
----
 
-### 4-1. Design System
+### 2-1. Design System
 
 ---
 
 ![image (16)](https://github.com/user-attachments/assets/1df00255-c2e8-441a-a3ce-aecac702ac1c)
 
 
-### 4-2. Prototype
+### 2-2. Prototype
 
 ---
 
@@ -77,14 +64,14 @@
 ![image (28)](https://github.com/user-attachments/assets/32a39f50-5559-4450-a159-db031918c799)
 
 
-### 5. ERD
+### 3. ERD
 
 ---
 
 ![letscareer-dashboard](https://github.com/user-attachments/assets/42774186-cbac-4104-971c-ded88ff8b1f2)
 
 
-### 6. System Architechture
+### 4. System Architechture
 
 ---
 
